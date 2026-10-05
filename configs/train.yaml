@@ -1,0 +1,31 @@
+# Full training for an NVIDIA GPU with 12 GB, for example an RTX 3080 Ti.
+# If memory runs out, set batch_size to 4 and grad_accum to 4.
+
+model_name: microsoft/deberta-v3-base
+seed: 42
+max_length: 256
+batch_size: 8
+eval_batch_size: 16
+grad_accum: 2
+epochs: 4
+learning_rate: 0.0002
+weight_decay: 0.01
+warmup_ratio: 0.06
+baseline_head_epochs: 3
+baseline_head_lr: 0.001
+lora_r: 8
+lora_alpha: 16
+lora_dropout: 0.05
+target_modules:
+  - query_proj
+  - value_proj
+fp16: true
+max_train_samples: null
+max_eval_samples: null
+train_file: data/train.jsonl
+val_file: data/val.jsonl
+test_file: data/test.jsonl
+output_dir: outputs/full
+adapter_dir: adapters/lora
+logging_steps: 20
+run_name: full

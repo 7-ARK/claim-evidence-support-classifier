@@ -1,0 +1,24 @@
+{
+  "model_name": "microsoft/deberta-v3-base",
+  "max_length": 256,
+  "run_name": "full",
+  "seed": 42,
+  "epochs": 4,
+  "learning_rate": 0.0002,
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "query_proj",
+    "value_proj"
+  ],
+  "modules_to_save": [
+    "classifier",
+    "pooler"
+  ],
+  "max_train_samples": null,
+  "train_rows_used": 840,
+  "trainable_parameters": 887811,
+  "total_parameters": 185312262,
+  "best_val_macro_f1": 0.8703703703703703
+}

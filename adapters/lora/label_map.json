@@ -1,0 +1,12 @@
+{
+  "id2label": {
+    "0": "Supported",
+    "1": "Partially Supported",
+    "2": "Not Evidenced"
+  },
+  "label2id": {
+    "Supported": 0,
+    "Partially Supported": 1,
+    "Not Evidenced": 2
+  }
+}

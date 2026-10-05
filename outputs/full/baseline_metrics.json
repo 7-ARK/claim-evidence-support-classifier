@@ -1,0 +1,105 @@
+{
+  "run_name": "full",
+  "majority": {
+    "macro_f1": 0.16666666666666666,
+    "accuracy": 0.3333333333333333,
+    "per_class": {
+      "Supported": {
+        "f1": 0.5,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "support": 60
+      },
+      "Partially Supported": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 60
+      },
+      "Not Evidenced": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "support": 60
+      }
+    },
+    "confusion_matrix": [
+      [
+        60,
+        0,
+        0
+      ],
+      [
+        60,
+        0,
+        0
+      ],
+      [
+        60,
+        0,
+        0
+      ]
+    ],
+    "labels": [
+      "Supported",
+      "Partially Supported",
+      "Not Evidenced"
+    ]
+  },
+  "majority_note": "Majority class predicts the most common training label for every test row. On a tie, the earliest label in the fixed label order is used. This run predicts Supported. The classes are balanced, so the tie rule applies. The majority count uses the full training file.",
+  "majority_label": "Supported",
+  "frozen_head": {
+    "macro_f1": 0.3167028381053417,
+    "accuracy": 0.4,
+    "per_class": {
+      "Supported": {
+        "f1": 0.504950495049505,
+        "precision": 0.3591549295774648,
+        "recall": 0.85,
+        "support": 60
+      },
+      "Partially Supported": {
+        "f1": 0.03278688524590164,
+        "precision": 1.0,
+        "recall": 0.016666666666666666,
+        "support": 60
+      },
+      "Not Evidenced": {
+        "f1": 0.41237113402061853,
+        "precision": 0.5405405405405406,
+        "recall": 0.3333333333333333,
+        "support": 60
+      }
+    },
+    "confusion_matrix": [
+      [
+        51,
+        0,
+        9
+      ],
+      [
+        51,
+        1,
+        8
+      ],
+      [
+        40,
+        0,
+        20
+      ]
+    ],
+    "labels": [
+      "Supported",
+      "Partially Supported",
+      "Not Evidenced"
+    ]
+  },
+  "frozen_note": "Frozen head trains classifier, pooler and keeps the rest of the backbone frozen. Train rows used: 840. Epochs: 3.",
+  "frozen_trainable_parameters": 592899,
+  "frozen_total_parameters": 184424451,
+  "frozen_modules": [
+    "classifier",
+    "pooler"
+  ],
+  "train_rows_used": 840
+}

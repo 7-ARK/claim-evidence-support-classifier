@@ -1,0 +1,1262 @@
+[
+  {
+    "claim": "Required: operate Go under live traffic.",
+    "evidence": "The production stack at Marble Education centered on Rust. The analytics engineer owned it for 4 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3948900103569031
+  },
+  {
+    "claim": "This role needs Elasticsearch together with writing design documents for the team.",
+    "evidence": "Elastic Search was the core tool at Redwood Logistics. The platform engineer wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3921734094619751
+  },
+  {
+    "claim": "Required tenure: 5 years using DynamoDB.",
+    "evidence": "At Fieldnote Media, the data engineer spent 6 years working with Dynamo.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3907970190048218
+  },
+  {
+    "claim": "The candidate must have production experience with FastAPI.",
+    "evidence": "For 8 years, the platform engineer at Fieldnote Media kept Spring Boot running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3920472264289856
+  },
+  {
+    "claim": "At least 7 years of Angular experience.",
+    "evidence": "The frontend engineer used Angular for 7 years at Harbor Analytics.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3897378444671631
+  },
+  {
+    "claim": "Required: operate Flink under live traffic.",
+    "evidence": "Daily work for the machine learning engineer at Aster Payroll was Spark, including live incidents over 8 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39319759607315063
+  },
+  {
+    "claim": "The candidate must have production experience with Cloud Functions.",
+    "evidence": "For 6 years, the data engineer at Brightline Health kept Cloud Functions running for real users.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39080989360809326
+  },
+  {
+    "claim": "The candidate needs Vue experience and mentoring junior engineers.",
+    "evidence": "For 7 years, the infrastructure engineer at Redwood Logistics kept Vue running for real users.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915182054042816
+  },
+  {
+    "claim": "This role needs Vue together with writing design documents for the team.",
+    "evidence": "Daily work for the site reliability engineer at Marble Education was Vue, including live incidents over 7 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3913503885269165
+  },
+  {
+    "claim": "Required tenure: 6 years using Docker.",
+    "evidence": "K8s was the daily tool for this infrastructure engineer for 6 years at Oakline Energy.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910471200942993
+  },
+  {
+    "claim": "This role needs Celery together with writing design documents for the team.",
+    "evidence": "The production stack at Summit Transit centered on Celery. The platform engineer owned it for 2 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39264899492263794
+  },
+  {
+    "claim": "Required: operate Jenkins under live traffic.",
+    "evidence": "The production stack at Brightline Health centered on Jenkins. The analytics engineer owned it for 5 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3948632478713989
+  },
+  {
+    "claim": "At least 5 years of Polars experience.",
+    "evidence": "The infrastructure engineer used Pandas for 5 years at Fieldnote Media.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39191001653671265
+  },
+  {
+    "claim": "Required: operate Elasticsearch under live traffic.",
+    "evidence": "At Harbor Analytics, the platform engineer ran Elastic Search in production for 2 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39455318450927734
+  },
+  {
+    "claim": "At least 5 years of Polars experience.",
+    "evidence": "The backend engineer used Polars for 6 years at Lumen Retail.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3906431198120117
+  },
+  {
+    "claim": "The candidate must have production experience with FastAPI.",
+    "evidence": "Summit Transit used FastAPI for live traffic. The machine learning engineer handled failures and fixes for 8 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910672664642334
+  },
+  {
+    "claim": "The candidate must have production experience with Ansible.",
+    "evidence": "Used Ansible in a university class project with sample data.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3885153532028198
+  },
+  {
+    "claim": "At least 8 years of CloudFormation experience.",
+    "evidence": "CloudFormation was the daily tool for this frontend engineer for 6 years at Lumen Retail.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3909311294555664
+  },
+  {
+    "claim": "The candidate must have production experience with Tableau.",
+    "evidence": "Catalogued donated books for a neighborhood library. The employer was Harbor Analytics.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3895455300807953
+  },
+  {
+    "claim": "The candidate must have production experience with Dataform.",
+    "evidence": "Used Dataform in a university class project with sample data.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3901054561138153
+  },
+  {
+    "claim": "This role needs Datadog together with leading the migration plan.",
+    "evidence": "The analytics engineer at Kindred Insurance used Datadog in production and led the migration plan off the old stack.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910617530345917
+  },
+  {
+    "claim": "Required: operate Python under live traffic.",
+    "evidence": "Python was never used in production at Kindred Insurance. The live stack was Java.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3933686912059784
+  },
+  {
+    "claim": "Required tenure: 8 years using Python.",
+    "evidence": "The infrastructure engineer used Java for 8 years at Aster Payroll.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3908858001232147
+  },
+  {
+    "claim": "We need production ownership of DynamoDB.",
+    "evidence": "The platform engineer did not adopt DynamoDB. Work at Summit Transit stayed on MongoDB.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38806042075157166
+  },
+  {
+    "claim": "The candidate must have production experience with Apache.",
+    "evidence": "For 7 years, the frontend engineer at Northwind Labs kept Nginx running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910243809223175
+  },
+  {
+    "claim": "We need production ownership of SageMaker.",
+    "evidence": "The production stack at Northwind Labs centered on SageMaker. The frontend engineer owned it for 5 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39216241240501404
+  },
+  {
+    "claim": "At least 8 years of Apache experience.",
+    "evidence": "At Harbor Analytics, the analytics engineer spent 8 years working with Nginx.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39202964305877686
+  },
+  {
+    "claim": "The candidate needs Cloud Functions experience and building a training program for new hires.",
+    "evidence": "The production stack at Kindred Insurance centered on Cloud Functions. The platform engineer owned it for 6 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3917750120162964
+  },
+  {
+    "claim": "We need production ownership of Jenkins.",
+    "evidence": "At Summit Transit, the infrastructure engineer ran GitHub Actions in production for 5 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39066773653030396
+  },
+  {
+    "claim": "Required tenure: 6 years using RabbitMQ.",
+    "evidence": "The analytics engineer used RabbitMQ for 4 years at Fieldnote Media.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904719054698944
+  },
+  {
+    "claim": "Required: operate Luigi under live traffic.",
+    "evidence": "Used Luigi in a university class project with sample data.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3923603296279907
+  },
+  {
+    "claim": "Required tenure: 5 years using Windows Server.",
+    "evidence": "Resume line from Redwood Logistics: 5 years with Windows Server as the site reliability engineer.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3898054361343384
+  },
+  {
+    "claim": "This role needs JUnit together with writing design documents for the team.",
+    "evidence": "At Aster Payroll, the infrastructure engineer used JUnit for 7 years and wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39246588945388794
+  },
+  {
+    "claim": "This role needs Redshift together with writing design documents for the team.",
+    "evidence": "Daily work for the site reliability engineer at Harbor Analytics was Redshift, including live incidents over 8 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39014342427253723
+  },
+  {
+    "claim": "We need production ownership of Redis.",
+    "evidence": "Coordinated freight deliveries between two warehouses and the shop floor. The employer was Marble Education.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39115652441978455
+  },
+  {
+    "claim": "The candidate must have production experience with PostgreSQL.",
+    "evidence": "Coached a youth soccer team and set the weekend practice times. The employer was Fieldnote Media.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39063993096351624
+  },
+  {
+    "claim": "At least 6 years of RabbitMQ experience.",
+    "evidence": "RabbitMQ was the daily tool for this analytics engineer for 7 years at Summit Transit.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38979408144950867
+  },
+  {
+    "claim": "The candidate must have production experience with LightGBM.",
+    "evidence": "Marble Education used XGBoost for live traffic. The platform engineer handled failures and fixes for 7 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910352885723114
+  },
+  {
+    "claim": "This role needs RabbitMQ together with writing design documents for the team.",
+    "evidence": "The frontend engineer at Oakline Energy used RabbitMQ in production and wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.391292542219162
+  },
+  {
+    "claim": "Required: operate CloudFormation under live traffic.",
+    "evidence": "The site reliability engineer at Fieldnote Media shipped CloudFormation to real users and owned releases for 4 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3944629430770874
+  },
+  {
+    "claim": "We need production ownership of SageMaker.",
+    "evidence": "For 5 years, the frontend engineer at Brightline Health kept Vertex AI running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3905926048755646
+  },
+  {
+    "claim": "Required: operate Datadog under live traffic.",
+    "evidence": "Marble Education used Prometheus for live traffic. The analytics engineer handled failures and fixes for 4 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.394268274307251
+  },
+  {
+    "claim": "We need production ownership of Tableau.",
+    "evidence": "Finished an online course on Tableau and a short practice lab.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39108899235725403
+  },
+  {
+    "claim": "This role needs Python together with leading the migration plan.",
+    "evidence": "At Fieldnote Media, the machine learning engineer used Python for 7 years and led the migration plan off the old stack.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39149564504623413
+  },
+  {
+    "claim": "We need production ownership of PyTorch.",
+    "evidence": "For 7 years, the platform engineer at Kindred Insurance kept PyTorch running for real users.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3903341293334961
+  },
+  {
+    "claim": "Required: operate Redis under live traffic.",
+    "evidence": "Read the Redis docs and passed an internal quiz.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3927972614765167
+  },
+  {
+    "claim": "The candidate needs CloudFormation experience and building a training program for new hires.",
+    "evidence": "At Aster Payroll, the infrastructure engineer used CloudFormation for 5 years and built the training program for new hires.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39001208543777466
+  },
+  {
+    "claim": "We need production ownership of DynamoDB.",
+    "evidence": "Staffed a hotel reception desk and resolved late booking complaints. The employer was Harbor Analytics.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3912931978702545
+  },
+  {
+    "claim": "We need production ownership of JUnit.",
+    "evidence": "The site reliability engineer at Copper Street Bank shipped JUnit to real users and owned releases for 8 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.392964243888855
+  },
+  {
+    "claim": "At least 4 years of PyTorch experience.",
+    "evidence": "Resume line from Marble Education: 2 years with PyTorch as the data engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3894515633583069
+  },
+  {
+    "claim": "The candidate needs Redshift experience and mentoring junior engineers.",
+    "evidence": "The site reliability engineer at Lumen Retail used Redshift in production and mentored junior engineers on the team.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910658359527588
+  },
+  {
+    "claim": "The candidate needs LightGBM experience and mentoring junior engineers.",
+    "evidence": "At Redwood Logistics, the frontend engineer used LightGBM for 7 years and mentored junior engineers on the team.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904104232788086
+  },
+  {
+    "claim": "The candidate needs Polars experience and mentoring junior engineers.",
+    "evidence": "At Kindred Insurance, the infrastructure engineer used Polars for 5 years and mentored junior engineers on the team.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3908422887325287
+  },
+  {
+    "claim": "The candidate needs Windows Server experience and mentoring junior engineers.",
+    "evidence": "Daily work for the frontend engineer at Northwind Labs was Windows Server, including live incidents over 5 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3916364312171936
+  },
+  {
+    "claim": "The candidate must have production experience with Tableau.",
+    "evidence": "Daily work for the machine learning engineer at Lumen Retail was Tableau, including live incidents over 6 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3914259076118469
+  },
+  {
+    "claim": "At least 4 years of PostgreSQL experience.",
+    "evidence": "MySQL was the daily tool for this platform engineer for 4 years at Copper Street Bank.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3906550705432892
+  },
+  {
+    "claim": "This role needs Docker together with leading the migration plan.",
+    "evidence": "Daily work for the frontend engineer at Summit Transit was Docker, including live incidents over 4 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915974497795105
+  },
+  {
+    "claim": "We need production ownership of Celery.",
+    "evidence": "The team at Copper Street Bank reviewed Celery and rejected it. The frontend engineer stayed on Sidekiq.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39261147379875183
+  },
+  {
+    "claim": "At least 6 years of Scala experience.",
+    "evidence": "Resume line from Marble Education: 8 years with Scala as the site reliability engineer.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39002567529678345
+  },
+  {
+    "claim": "We need production ownership of Apache.",
+    "evidence": "Finished an online course on Apache and a short practice lab.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915897309780121
+  },
+  {
+    "claim": "We need production ownership of Celery.",
+    "evidence": "Northwind Labs used Celery for live traffic. The backend engineer handled failures and fixes for 2 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.391375333070755
+  },
+  {
+    "claim": "This role needs SageMaker together with leading the migration plan.",
+    "evidence": "At Marble Education, the frontend engineer used SageMaker for 7 years and led the migration plan off the old stack.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39081576466560364
+  },
+  {
+    "claim": "At least 7 years of Celery experience.",
+    "evidence": "The machine learning engineer used Celery for 8 years at Summit Transit.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39076513051986694
+  },
+  {
+    "claim": "Required tenure: 5 years using S3.",
+    "evidence": "The site reliability engineer used S3 for 3 years at Redwood Logistics.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38995394110679626
+  },
+  {
+    "claim": "This role needs GraphQL together with writing design documents for the team.",
+    "evidence": "The infrastructure engineer at Harbor Analytics used GraphQL in production and wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39081528782844543
+  },
+  {
+    "claim": "The candidate must have production experience with CloudFormation.",
+    "evidence": "The platform engineer at Summit Transit shipped CloudFormation to real users and owned releases for 4 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39290890097618103
+  },
+  {
+    "claim": "At least 8 years of SageMaker experience.",
+    "evidence": "Resume line from Redwood Logistics: 6 years with SageMaker as the site reliability engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3901073634624481
+  },
+  {
+    "claim": "The candidate must have production experience with Windows Server.",
+    "evidence": "At Aster Payroll, the platform engineer ran Linux in production for 5 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39163073897361755
+  },
+  {
+    "claim": "The candidate must have production experience with GraphQL.",
+    "evidence": "At Harbor Analytics, the analytics engineer ran GraphQL in production for 4 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3916695713996887
+  },
+  {
+    "claim": "Required tenure: 6 years using Docker.",
+    "evidence": "Docker was the daily tool for this backend engineer for 4 years at Kindred Insurance.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39015302062034607
+  },
+  {
+    "claim": "The candidate must have production experience with Polars.",
+    "evidence": "At Copper Street Bank, the machine learning engineer ran Polars in production for 2 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39124712347984314
+  },
+  {
+    "claim": "At least 4 years of PostgreSQL experience.",
+    "evidence": "Resume line from Aster Payroll: 4 years with MySQL as the data engineer.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3899132311344147
+  },
+  {
+    "claim": "The candidate needs Scala experience and building a training program for new hires.",
+    "evidence": "The site reliability engineer at Fieldnote Media shipped Scala to real users and owned releases for 6 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39264434576034546
+  },
+  {
+    "claim": "At least 5 years of GCP experience.",
+    "evidence": "GCP was the daily tool for this data engineer for 3 years at Redwood Logistics.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38953548669815063
+  },
+  {
+    "claim": "Required: operate Snowflake under live traffic.",
+    "evidence": "A short trial of Snowflake was turned down. The analytics engineer at Brightline Health kept using BigQuery.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3923693895339966
+  },
+  {
+    "claim": "Required tenure: 6 years using RabbitMQ.",
+    "evidence": "Resume line from Brightline Health: 4 years with RabbitMQ as the data engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3890175521373749
+  },
+  {
+    "claim": "Required: operate Python under live traffic.",
+    "evidence": "At Summit Transit, the site reliability engineer ran Python in production for 6 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39400479197502136
+  },
+  {
+    "claim": "Required: operate Tableau under live traffic.",
+    "evidence": "The infrastructure engineer at Summit Transit shipped Tableau to real users and owned releases for 6 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3952406048774719
+  },
+  {
+    "claim": "The candidate must have production experience with Redis.",
+    "evidence": "The production stack at Lumen Retail centered on Memcached. The platform engineer owned it for 8 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39262524247169495
+  },
+  {
+    "claim": "Required: operate Elasticsearch under live traffic.",
+    "evidence": "Joined a hackathon team and showed a short Elastic Search demo.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3914993405342102
+  },
+  {
+    "claim": "Required: operate Scala under live traffic.",
+    "evidence": "Daily work for the frontend engineer at Summit Transit was Scala, including live incidents over 6 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3934905230998993
+  },
+  {
+    "claim": "Required tenure: 7 years using Celery.",
+    "evidence": "Celery was the daily tool for this infrastructure engineer for 8 years at Aster Payroll.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39061686396598816
+  },
+  {
+    "claim": "Required: operate Redshift under live traffic.",
+    "evidence": "At Fieldnote Media, the infrastructure engineer ran Redshift in production for 8 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39496904611587524
+  },
+  {
+    "claim": "We need production ownership of Go.",
+    "evidence": "Daily work for the infrastructure engineer at Northwind Labs was Rust, including live incidents over 4 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38987842202186584
+  },
+  {
+    "claim": "At least 8 years of SageMaker experience.",
+    "evidence": "At Redwood Logistics, the machine learning engineer spent 8 years working with SageMaker.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910205066204071
+  },
+  {
+    "claim": "Required: operate Luigi under live traffic.",
+    "evidence": "At Oakline Energy, the data engineer ran Airflow in production for 5 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39485087990760803
+  },
+  {
+    "claim": "We need production ownership of Docker.",
+    "evidence": "At Lumen Retail, the analytics engineer ran Kubernetes in production for 4 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3914671540260315
+  },
+  {
+    "claim": "We need production ownership of Redis.",
+    "evidence": "For 8 years, the machine learning engineer at Kindred Insurance kept Memcached running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3907214105129242
+  },
+  {
+    "claim": "The candidate must have production experience with LightGBM.",
+    "evidence": "Read the LightGBM docs and passed an internal quiz.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3883197605609894
+  },
+  {
+    "claim": "This role needs Elasticsearch together with leading the migration plan.",
+    "evidence": "At Harbor Analytics, the site reliability engineer used Elastic Search for 5 years and led the migration plan off the old stack.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3908565938472748
+  },
+  {
+    "claim": "At least 5 years of Redis experience.",
+    "evidence": "Redis was the daily tool for this data engineer for 3 years at Marble Education.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38935065269470215
+  },
+  {
+    "claim": "The candidate must have production experience with SageMaker.",
+    "evidence": "Redwood Logistics used SageMaker for live traffic. The data engineer handled failures and fixes for 5 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3909578025341034
+  },
+  {
+    "claim": "The hire must have shipped Terraform to real users.",
+    "evidence": "Joined a hackathon team and showed a short Terraform demo.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3890211880207062
+  },
+  {
+    "claim": "The candidate needs JUnit experience and building a training program for new hires.",
+    "evidence": "At Lumen Retail, the frontend engineer used JUnit for 3 years and built the training program for new hires.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3914358615875244
+  },
+  {
+    "claim": "This role needs Datadog together with writing design documents for the team.",
+    "evidence": "The infrastructure engineer at Aster Payroll used Datadog in production and wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3921668827533722
+  },
+  {
+    "claim": "At least 6 years of Luigi experience.",
+    "evidence": "Resume line from Kindred Insurance: 4 years with Luigi as the machine learning engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3907831013202667
+  },
+  {
+    "claim": "Required tenure: 6 years using Scala.",
+    "evidence": "The backend engineer used Scala for 4 years at Aster Payroll.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3891890347003937
+  },
+  {
+    "claim": "The candidate must have production experience with Datadog.",
+    "evidence": "Joined a hackathon team and showed a short Datadog demo.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3894504904747009
+  },
+  {
+    "claim": "Required tenure: 7 years using Celery.",
+    "evidence": "Sidekiq was the daily tool for this frontend engineer for 7 years at Fieldnote Media.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915347754955292
+  },
+  {
+    "claim": "Required tenure: 7 years using Tableau.",
+    "evidence": "At Oakline Energy, the data engineer spent 5 years working with Tableau.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38982588052749634
+  },
+  {
+    "claim": "Required: operate Python under live traffic.",
+    "evidence": "Read the Python docs and passed an internal quiz.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3931709825992584
+  },
+  {
+    "claim": "We need production ownership of Polars.",
+    "evidence": "At Summit Transit, the infrastructure engineer ran Pandas in production for 2 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39129021763801575
+  },
+  {
+    "claim": "At least 8 years of SageMaker experience.",
+    "evidence": "Resume line from Fieldnote Media: 6 years with SageMaker as the frontend engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39063388109207153
+  },
+  {
+    "claim": "This role needs RabbitMQ together with writing design documents for the team.",
+    "evidence": "The platform engineer did not adopt RabbitMQ. Work at Fieldnote Media stayed on Kafka.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3893829584121704
+  },
+  {
+    "claim": "The candidate must have production experience with GraphQL.",
+    "evidence": "Wrote a weekly food column and edited restaurant notes for the paper. The employer was Kindred Insurance.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3910607397556305
+  },
+  {
+    "claim": "This role needs Apache together with writing design documents for the team.",
+    "evidence": "The platform engineer at Oakline Energy used Apache in production and wrote the design documents the team used.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3919830322265625
+  },
+  {
+    "claim": "Required tenure: 8 years using CloudFormation.",
+    "evidence": "The site reliability engineer used CloudFormation for 6 years at Oakline Energy.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38836774230003357
+  },
+  {
+    "claim": "We need production ownership of Tableau.",
+    "evidence": "Daily work for the frontend engineer at Summit Transit was Tableau, including live incidents over 6 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39061009883880615
+  },
+  {
+    "claim": "This role needs LightGBM together with leading the migration plan.",
+    "evidence": "For 7 years, the site reliability engineer at Harbor Analytics kept LightGBM running for real users.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39100486040115356
+  },
+  {
+    "claim": "Required: operate Apache under live traffic.",
+    "evidence": "For 7 years, the analytics engineer at Redwood Logistics kept Nginx running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39457976818084717
+  },
+  {
+    "claim": "We need production ownership of Jenkins.",
+    "evidence": "Daily work for the backend engineer at Marble Education was Jenkins, including live incidents over 5 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39005813002586365
+  },
+  {
+    "claim": "We need production ownership of DynamoDB.",
+    "evidence": "For 6 years, the data engineer at Brightline Health kept Mongo running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39037826657295227
+  },
+  {
+    "claim": "At least 7 years of LightGBM experience.",
+    "evidence": "Resume line from Oakline Energy: 9 years with LightGBM as the platform engineer.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39069756865501404
+  },
+  {
+    "claim": "At least 6 years of JUnit experience.",
+    "evidence": "Resume line from Brightline Health: 4 years with JUnit as the infrastructure engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904242515563965
+  },
+  {
+    "claim": "The candidate needs Python experience and building a training program for new hires.",
+    "evidence": "The site reliability engineer at Redwood Logistics used Python in production and built the training program for new hires.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39104852080345154
+  },
+  {
+    "claim": "This role needs FastAPI together with writing design documents for the team.",
+    "evidence": "FastAPI was never used in production at Summit Transit. The live stack was Spring Boot.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915930390357971
+  },
+  {
+    "claim": "We need production ownership of RabbitMQ.",
+    "evidence": "The frontend engineer at Marble Education shipped Kafka to real users and owned releases for 2 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3912898898124695
+  },
+  {
+    "claim": "At least 6 years of JUnit experience.",
+    "evidence": "JUnit was the daily tool for this data engineer for 4 years at Copper Street Bank.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3903355896472931
+  },
+  {
+    "claim": "Required tenure: 4 years using Cloud Functions.",
+    "evidence": "The platform engineer used Cloud Functions for 2 years at Kindred Insurance.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.389743834733963
+  },
+  {
+    "claim": "Required: operate Angular under live traffic.",
+    "evidence": "Brightline Health used React for live traffic. The analytics engineer handled failures and fixes for 5 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39580056071281433
+  },
+  {
+    "claim": "We need production ownership of Go.",
+    "evidence": "At Oakline Energy, the site reliability engineer ran Rust in production for 4 years and owned live incidents.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39150679111480713
+  },
+  {
+    "claim": "Required tenure: 5 years using Redis.",
+    "evidence": "The platform engineer used Memcached for 5 years at Marble Education.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39089271426200867
+  },
+  {
+    "claim": "At least 8 years of Redshift experience.",
+    "evidence": "Resume line from Redwood Logistics: 6 years with Redshift as the backend engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38983434438705444
+  },
+  {
+    "claim": "Required tenure: 8 years using Apache.",
+    "evidence": "At Lumen Retail, the platform engineer spent 8 years working with Nginx.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3921836018562317
+  },
+  {
+    "claim": "Required tenure: 6 years using Docker.",
+    "evidence": "K8s was the daily tool for this frontend engineer for 6 years at Brightline Health.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39099350571632385
+  },
+  {
+    "claim": "Required: operate Luigi under live traffic.",
+    "evidence": "For 5 years, the machine learning engineer at Copper Street Bank kept Airflow running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3944071829319
+  },
+  {
+    "claim": "Required tenure: 4 years using Jenkins.",
+    "evidence": "Resume line from Lumen Retail: 4 years with Jenkins as the site reliability engineer.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38974839448928833
+  },
+  {
+    "claim": "The candidate must have production experience with GCP.",
+    "evidence": "Read the Google Cloud docs and passed an internal quiz.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3881645202636719
+  },
+  {
+    "claim": "We need production ownership of PostgreSQL.",
+    "evidence": "Fieldnote Media used PostgreSQL for live traffic. The frontend engineer handled failures and fixes for 2 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3928188979625702
+  },
+  {
+    "claim": "The candidate must have production experience with CloudFormation.",
+    "evidence": "Staffed a hotel reception desk and resolved late booking complaints. The employer was Kindred Insurance.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39161384105682373
+  },
+  {
+    "claim": "At least 5 years of DynamoDB experience.",
+    "evidence": "DynamoDB was the daily tool for this machine learning engineer for 3 years at Marble Education.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3901560604572296
+  },
+  {
+    "claim": "The candidate must have production experience with Windows Server.",
+    "evidence": "Wrote a weekly food column and edited restaurant notes for the paper. The employer was Copper Street Bank.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3903596103191376
+  },
+  {
+    "claim": "The candidate needs Go experience and building a training program for new hires.",
+    "evidence": "Daily work for the site reliability engineer at Oakline Energy was Go, including live incidents over 4 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904891014099121
+  },
+  {
+    "claim": "The candidate must have production experience with Ansible.",
+    "evidence": "At Aster Payroll, the machine learning engineer ran Ansible in production for 3 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915274739265442
+  },
+  {
+    "claim": "At least 7 years of Tableau experience.",
+    "evidence": "Resume line from Harbor Analytics: 7 years with Tableau as the backend engineer.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3905363082885742
+  },
+  {
+    "claim": "We need production ownership of Ansible.",
+    "evidence": "Ansible was never used in production at Harbor Analytics. The live stack was Chef.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904963433742523
+  },
+  {
+    "claim": "Required tenure: 8 years using CloudFormation.",
+    "evidence": "The infrastructure engineer used CloudFormation for 6 years at Harbor Analytics.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3895264267921448
+  },
+  {
+    "claim": "At least 5 years of Go experience.",
+    "evidence": "Resume line from Brightline Health: 5 years with Rust as the analytics engineer.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39089542627334595
+  },
+  {
+    "claim": "Required: operate Redshift under live traffic.",
+    "evidence": "Repaired bicycles for commuters and kept the shop schedule. The employer was Lumen Retail.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3923913538455963
+  },
+  {
+    "claim": "The candidate must have production experience with GCP.",
+    "evidence": "Daily work for the platform engineer at Lumen Retail was Amazon Web Services, including live incidents over 3 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3907906711101532
+  },
+  {
+    "claim": "Required: operate S3 under live traffic.",
+    "evidence": "Aster Payroll used Cloud Storage for live traffic. The machine learning engineer handled failures and fixes for 7 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39486783742904663
+  },
+  {
+    "claim": "The candidate must have production experience with Flink.",
+    "evidence": "Drove a school bus route and completed the daily safety checklist. The employer was Redwood Logistics.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39078018069267273
+  },
+  {
+    "claim": "The candidate needs Ansible experience and mentoring junior engineers.",
+    "evidence": "At Brightline Health, the frontend engineer used Ansible for 7 years and mentored junior engineers on the team.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39013779163360596
+  },
+  {
+    "claim": "The candidate must have production experience with Docker.",
+    "evidence": "The site reliability engineer at Harbor Analytics shipped K8s to real users and owned releases for 4 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39358243346214294
+  },
+  {
+    "claim": "The candidate needs Ansible experience and building a training program for new hires.",
+    "evidence": "The platform engineer at Copper Street Bank shipped Ansible to real users and owned releases for 3 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3914989233016968
+  },
+  {
+    "claim": "The candidate must have production experience with DynamoDB.",
+    "evidence": "For 6 years, the analytics engineer at Lumen Retail kept Mongo running for real users.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3911844789981842
+  },
+  {
+    "claim": "Required: operate LightGBM under live traffic.",
+    "evidence": "Led a community garden and scheduled volunteers for Saturday work. The employer was Harbor Analytics.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39236682653427124
+  },
+  {
+    "claim": "Required: operate Ansible under live traffic.",
+    "evidence": "Joined a hackathon team and showed a short Ansible demo.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3916700780391693
+  },
+  {
+    "claim": "At least 7 years of Snowflake experience.",
+    "evidence": "Resume line from Marble Education: 5 years with Snowflake as the data engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38950228691101074
+  },
+  {
+    "claim": "The candidate must have production experience with Vue.",
+    "evidence": "Built a weekend prototype with Vue on sample data.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3900826573371887
+  },
+  {
+    "claim": "Required: operate Celery under live traffic.",
+    "evidence": "The machine learning engineer at Lumen Retail shipped Celery to real users and owned releases for 2 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39444035291671753
+  },
+  {
+    "claim": "The candidate must have production experience with Redis.",
+    "evidence": "The production stack at Oakline Energy centered on Redis. The data engineer owned it for 8 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39154577255249023
+  },
+  {
+    "claim": "We need production ownership of Datadog.",
+    "evidence": "Wrote a weekly food column and edited restaurant notes for the paper. The employer was Northwind Labs.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39084431529045105
+  },
+  {
+    "claim": "The candidate needs PostgreSQL experience and building a training program for new hires.",
+    "evidence": "Daily work for the backend engineer at Marble Education was Postgres, including live incidents over 2 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3909338116645813
+  },
+  {
+    "claim": "Required tenure: 8 years using SageMaker.",
+    "evidence": "The site reliability engineer used SageMaker for 6 years at Lumen Retail.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39006781578063965
+  },
+  {
+    "claim": "At least 4 years of PyTorch experience.",
+    "evidence": "PyTorch was the daily tool for this analytics engineer for 2 years at Summit Transit.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3904866576194763
+  },
+  {
+    "claim": "This role needs Tableau together with leading the migration plan.",
+    "evidence": "The infrastructure engineer at Lumen Retail used Tableau in production and led the migration plan off the old stack.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39126402139663696
+  },
+  {
+    "claim": "The candidate needs S3 experience and building a training program for new hires.",
+    "evidence": "The analytics engineer at Summit Transit shipped S3 to real users and owned releases for 7 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39344102144241333
+  },
+  {
+    "claim": "The candidate must have production experience with Go.",
+    "evidence": "Finished an online course on Go and a short practice lab.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39155322313308716
+  },
+  {
+    "claim": "The candidate needs Flink experience and mentoring junior engineers.",
+    "evidence": "The team at Harbor Analytics reviewed Flink and rejected it. The backend engineer stayed on Spark.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3912469744682312
+  },
+  {
+    "claim": "Required tenure: 7 years using LightGBM.",
+    "evidence": "The frontend engineer used LightGBM for 7 years at Lumen Retail.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39091259241104126
+  },
+  {
+    "claim": "The candidate must have production experience with Scala.",
+    "evidence": "Daily work for the platform engineer at Summit Transit was Kotlin, including live incidents over 6 years.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39054548740386963
+  },
+  {
+    "claim": "At least 8 years of Redshift experience.",
+    "evidence": "At Lumen Retail, the platform engineer spent 8 years working with Azure Synapse.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3903239667415619
+  },
+  {
+    "claim": "At least 6 years of Vue experience.",
+    "evidence": "Vue was the daily tool for this machine learning engineer for 4 years at Kindred Insurance.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.389893501996994
+  },
+  {
+    "claim": "The candidate needs Scala experience and building a training program for new hires.",
+    "evidence": "Scala was the core tool at Marble Education. The frontend engineer built the training program for new hires.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3912659287452698
+  },
+  {
+    "claim": "We need production ownership of Python.",
+    "evidence": "Used Python in a university class project with sample data.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38989463448524475
+  },
+  {
+    "claim": "Required tenure: 4 years using Jenkins.",
+    "evidence": "Resume line from Aster Payroll: 2 years with Jenkins as the backend engineer.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3892747759819031
+  },
+  {
+    "claim": "This role needs Go together with leading the migration plan.",
+    "evidence": "Daily work for the platform engineer at Lumen Retail was Go, including live incidents over 4 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3923409879207611
+  },
+  {
+    "claim": "Required tenure: 8 years using Python.",
+    "evidence": "Python was the daily tool for this platform engineer for 6 years at Copper Street Bank.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39075833559036255
+  },
+  {
+    "claim": "Required: operate S3 under live traffic.",
+    "evidence": "At Fieldnote Media, the frontend engineer ran S3 in production for 7 years and owned live incidents.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3950410485267639
+  },
+  {
+    "claim": "Required tenure: 5 years using Polars.",
+    "evidence": "Resume line from Redwood Logistics: 5 years with Pandas as the machine learning engineer.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38935205340385437
+  },
+  {
+    "claim": "The candidate needs FastAPI experience and mentoring junior engineers.",
+    "evidence": "Fieldnote Media used FastAPI for live traffic. The data engineer handled failures and fixes for 8 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39182305335998535
+  },
+  {
+    "claim": "We need production ownership of Docker.",
+    "evidence": "The infrastructure engineer at Oakline Energy shipped Docker to real users and owned releases for 4 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3915819227695465
+  },
+  {
+    "claim": "The candidate needs Jenkins experience and building a training program for new hires.",
+    "evidence": "Daily work for the infrastructure engineer at Fieldnote Media was Jenkins, including live incidents over 5 years.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3911430835723877
+  },
+  {
+    "claim": "Required: operate Scala under live traffic.",
+    "evidence": "Planned seating and menus for banquet events at a city hall. The employer was Harbor Analytics.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.3923336863517761
+  },
+  {
+    "claim": "At least 7 years of Datadog experience.",
+    "evidence": "The frontend engineer used Datadog for 5 years at Fieldnote Media.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39056849479675293
+  },
+  {
+    "claim": "This role needs Docker together with writing design documents for the team.",
+    "evidence": "At Oakline Energy, the infrastructure engineer ran Docker in production for 4 years and owned live incidents.",
+    "true_label": "Partially Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39189282059669495
+  },
+  {
+    "claim": "The candidate must have production experience with Vue.",
+    "evidence": "Daily work for the frontend engineer at Summit Transit was Vue, including live incidents over 7 years.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39185866713523865
+  },
+  {
+    "claim": "The candidate needs Jenkins experience and building a training program for new hires.",
+    "evidence": "The machine learning engineer at Copper Street Bank used Jenkins in production and built the training program for new hires.",
+    "true_label": "Supported",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.39027637243270874
+  },
+  {
+    "claim": "Required tenure: 7 years using LightGBM.",
+    "evidence": "Resume line from Aster Payroll: 7 years with XGBoost as the backend engineer.",
+    "true_label": "Not Evidenced",
+    "predicted_label": "Not Evidenced",
+    "predicted_probability": 0.38936224579811096
+  }
+]

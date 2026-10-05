@@ -1,0 +1,49 @@
+Pattern: supported_single
+Label: Supported
+Claim: The candidate must have production experience with PostgreSQL.
+Evidence: Marble Education used Postgres for live traffic. The data engineer handled failures and fixes for 2 years.
+
+Pattern: supported_years
+Label: Supported
+Claim: At least 4 years of PostgreSQL experience.
+Evidence: Postgres was the daily tool for this machine learning engineer for 4 years at Lumen Retail.
+
+Pattern: supported_two_part
+Label: Supported
+Claim: The candidate needs PostgreSQL experience and mentoring junior engineers.
+Evidence: The analytics engineer at Brightline Health used Postgres in production and mentored junior engineers on the team.
+
+Pattern: partial_years
+Label: Partially Supported
+Claim: At least 4 years of PostgreSQL experience.
+Evidence: At Kindred Insurance, the data engineer spent 2 years working with Postgres.
+
+Pattern: partial_missing_part
+Label: Partially Supported
+Claim: The candidate needs PostgreSQL experience and mentoring junior engineers.
+Evidence: At Marble Education, the platform engineer ran PostgreSQL in production for 2 years and owned live incidents.
+
+Pattern: partial_weaker
+Label: Partially Supported
+Claim: The candidate must have production experience with PostgreSQL.
+Evidence: Read the Postgres docs and passed an internal quiz.
+
+Pattern: not_near_miss
+Label: Not Evidenced
+Claim: The candidate must have production experience with PostgreSQL.
+Evidence: The production stack at Harbor Analytics centered on MySQL. The backend engineer owned it for 2 years.
+
+Pattern: not_years_on_other_tech
+Label: Not Evidenced
+Claim: At least 4 years of PostgreSQL experience.
+Evidence: Resume line from Aster Payroll: 4 years with MySQL as the data engineer.
+
+Pattern: not_negated
+Label: Not Evidenced
+Claim: The candidate needs PostgreSQL experience and mentoring junior engineers.
+Evidence: The platform engineer did not adopt PostgreSQL. Work at Redwood Logistics stayed on MySQL.
+
+Pattern: not_unrelated
+Label: Not Evidenced
+Claim: The candidate must have production experience with PostgreSQL.
+Evidence: Coached a youth soccer team and set the weekend practice times. The employer was Fieldnote Media.

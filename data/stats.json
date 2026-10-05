@@ -1,0 +1,88 @@
+{
+  "seed": 42,
+  "total": 1200,
+  "labels": {
+    "Supported": 400,
+    "Partially Supported": 400,
+    "Not Evidenced": 400
+  },
+  "splits": {
+    "train": 840,
+    "val": 180,
+    "test": 180
+  },
+  "split_labels": {
+    "train": {
+      "Supported": 280,
+      "Partially Supported": 280,
+      "Not Evidenced": 280
+    },
+    "val": {
+      "Supported": 60,
+      "Partially Supported": 60,
+      "Not Evidenced": 60
+    },
+    "test": {
+      "Supported": 60,
+      "Partially Supported": 60,
+      "Not Evidenced": 60
+    }
+  },
+  "patterns": {
+    "not_near_miss": 180,
+    "not_negated": 70,
+    "not_unrelated": 70,
+    "not_years_on_other_tech": 80,
+    "partial_missing_part": 140,
+    "partial_weaker": 120,
+    "partial_years": 140,
+    "supported_single": 160,
+    "supported_two_part": 120,
+    "supported_years": 120
+  },
+  "split_patterns": {
+    "train": {
+      "not_near_miss": 125,
+      "not_negated": 51,
+      "not_unrelated": 50,
+      "not_years_on_other_tech": 54,
+      "partial_missing_part": 99,
+      "partial_weaker": 86,
+      "partial_years": 95,
+      "supported_single": 112,
+      "supported_two_part": 78,
+      "supported_years": 90
+    },
+    "val": {
+      "not_near_miss": 29,
+      "not_negated": 11,
+      "not_unrelated": 8,
+      "not_years_on_other_tech": 12,
+      "partial_missing_part": 24,
+      "partial_weaker": 18,
+      "partial_years": 18,
+      "supported_single": 21,
+      "supported_two_part": 22,
+      "supported_years": 17
+    },
+    "test": {
+      "not_near_miss": 26,
+      "not_negated": 8,
+      "not_unrelated": 12,
+      "not_years_on_other_tech": 14,
+      "partial_missing_part": 17,
+      "partial_weaker": 16,
+      "partial_years": 27,
+      "supported_single": 27,
+      "supported_two_part": 20,
+      "supported_years": 13
+    }
+  },
+  "unique_claims": 327,
+  "claims_with_more_than_one_label": 295,
+  "sha256": {
+    "train": "269b5f5c456c64d8e6daa03a672ca0a4e95fff3285e585eb8c6e4ccff75210b6",
+    "val": "b7bc3bc97001873826987b732596445eb4e7fdcfda83763610885dbd688946ed",
+    "test": "4ac2ed2b5d6940e96a80e8ea86c1ae5bc2d3f55d24874031b1aa9cb73c6de1da"
+  }
+}

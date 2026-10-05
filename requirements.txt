@@ -1,0 +1,14 @@
+torch==2.14.1
+transformers==5.18.0
+peft==0.21.1
+datasets==5.0.1
+accelerate==1.15.0
+scikit-learn==1.9.1
+sentencepiece==0.2.1
+matplotlib==3.10.7
+pyyaml==6.0.2
+protobuf==6.32.1
+safetensors==0.8.0
+numpy==2.4.4
+
+# Optional local demo UI: pip install gradio

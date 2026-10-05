@@ -1,0 +1,29 @@
+# Python and local environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Model and dataset caches
+.cache/
+wandb/
+
+# Trainer scratch. The adapter itself lives in adapters/lora.
+outputs/**/checkpoint-*/
+outputs/**/trainer_work/
+outputs/**/baseline_trainer_work/
+trainer_work/
+
+# Local archives
+*.zip
+claim-evidence-support-classifier.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.gradio/
